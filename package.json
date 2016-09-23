@@ -1,0 +1,20 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "init-webproject":"./bin/index.js"
+  },
+  "bin":"./bin/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyWei/easy_mongo.git"
+  },
+  "keywords": [
+    "Mongodb",
+    "node",
+    "easy"
+  ],
+  "author": "JeremyWei",
+  "license": "MIT"
+}
