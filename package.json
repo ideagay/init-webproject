@@ -8,13 +8,12 @@
   "bin":"./bin/index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JeremyWei/easy_mongo.git"
+    "url": "git@github.com:ideagay/init-webproject.git"
   },
   "keywords": [
-    "Mongodb",
     "node",
-    "easy"
+    "init webproject"
   ],
-  "author": "JeremyWei",
+  "author": "hyb",
   "license": "MIT"
 }
